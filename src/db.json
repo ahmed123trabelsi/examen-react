@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Maison de campaggfgrrne",
+      "adress": "456 Chemin des Fleurs",
+      "price": 250,
+      "available": false,
+      "vue_number": 1
+    },
+    {
+      "id": "2",
+      "name": "Studio en centre-ville",
+      "adress": "789 Avenue du Centre",
+      "price": 800,
+      "available": false,
+      "vue_number": 1
+    }
+  ]
+}
